@@ -9,14 +9,14 @@
 - Naqiya
 - Yaseen Gaber
 
-# Contribution:-
+# Contributions:-
 
 - Ahmed Ali ---> 'clean_and_prepare_data' function ~ (25%)
 - Mohammad Ali ---> 'load_data' function and 'main()' function ~ (25%)
 - Naqiya ---> 'analyze_data' function ~ (25%)
 - Yaseen Gaber ---> 'visualize_data' function ~ (25%)
 
-# Description:-
+# program Description:-
 
 - Python script designed to handle CSV files...
 It contains 4 primary functions: Load Data; Clean and prepare data; Analyze data; Visualize and present the data.
